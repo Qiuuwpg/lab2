@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name = "editmessage">"I'm an edit text"</string>
+    <string name = "image">"height is 3,width is 6"</string>
+</resources>
